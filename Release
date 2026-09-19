@@ -1,17 +1,17 @@
 Origin: Marcus Tweak Repo
 Label: Marcus Tweak Repo
 Suite: stable
-Version: 1.0
+Version: 1.1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Marcus's personal iOS 6 tweak collection
 MD5Sum:
- d3c7c5fe087970696514921416e0dd60 43473 Packages
- db85747dc18913800348a098b2321fc1 13132 Packages.gz
+ 0ac0d3c3a3c1933d1325307e839b2af1 2181 Packages
+ 399f8b869cbd60e3637391cfe54e4a9c 1089 Packages.gz
 SHA1:
- 609e5ea783f40dd3f73129751c2dd7ecf74c389a 43473 Packages
- b9127b7e4c2870829ef4707e14921b7e0ee9ab24 13132 Packages.gz
+ a150cac49c8cf1970674ebef11969ae43f08e356 2181 Packages
+ 4d6ae2c687b2019373f3740492fa2e79dbf3b2cd 1089 Packages.gz
 SHA256:
- 497617ab763772a8aa9ef472231479cb022fd0d92e991d5e639a881d4fdc1af9 43473 Packages
- 5ecf85f9a2a6f1d8757c1afe4bc5804e1026ce75bcae2b9e3a08f2c3f151bfd0 13132 Packages.gz
+ 7ae47c27652afa8ff1024c6841038c187dc780b7d0a48a5528091eb22fa93d69 2181 Packages
+ 88d0aba17724f9c394a64501e7153d327d4c8cbac2410862e8c5625a65569095 1089 Packages.gz
