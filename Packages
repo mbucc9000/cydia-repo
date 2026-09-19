@@ -784,7 +784,7 @@ Author: mbucc9000
 Section: Tweaks
 Depends: ai.akemi.appsyncunified, bag.xml.alienbluebutgood, bag.xml.discord, cc.tweak.taptowidgetscore, com.a3tweaks.flipswitch, com.autopear.installipa, com.bagxml.storelayoutsfix, com.chpwn.weeloader, com.filippobiga.harlem, com.hackyouriphone.cyueue, com.hackyouriphone.karenprefs, com.hackyouriphone.libsubstitrate, com.hackyouriphone.mirrorselfie, com.hackyouriphone.packagebackup, com.hackyouriphone.taptowidgets, com.ixmoe.1pwn.Veteris, com.ixmoe.1pwn.facetimefixer, com.jamied360.ncsettings, com.legacyguides.pinterestx6, com.obscure.earthx, com.officialscheduler.safaridownloadenabler, com.ps.efmfontdl, com.ps.emojiattributes, com.ps.emojifontefm, com.ps.emojifontmanager, com.ps.emojilayout, com.ps.emojilibrary, com.ps.emojilocalization, com.ps.emojiportlegacy, com.skyglow.mapsx, com.slugrail.ipainstaller, com.victorlobe.fixmyfriends, com.victorlobe.googlefix, com.victorlobe.safarioldreddit, dev.preloading.ebayx2, dev.preloading.retranslate, dev.preloading.tubereplacer, it.drcomputer.mediaexport, libactivator, me.k3a.ae, moe.yzu.veterishelper, net.nekokawa.appstorefix, net.nekokawa.storeetcfix, org.h6nry.adowngrader, org.thebigboss.customwidgeticons, org.thebigboss.frontflash, ws.hbang.common
 Filename: debs/com.mbucc9000.marcussetup_1.0_iphoneos-arm.deb
-Size: 2636
-MD5sum: f1b53c205567eb6b8c875c011d907989
-SHA1: 7691c1124385532b264522789cbe9f8228583ea6
-SHA256: ffd9ec4fd2379375fa1303fe3ba19b78797cd99cf67cba4fc483ae895c5a2255
+Size: 961
+MD5sum: 084e2c41dd5bc86e7f2220221e60aaa9
+SHA1: 1d6f8ba6f7c052c088e7fb2a17222cb79ca74c8a
+SHA256: 1bd23c1dfd71a5ea10a9aa31207b3d4658a3fd199eee3421562778d7aee9f818
