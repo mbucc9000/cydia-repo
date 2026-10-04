@@ -1073,3 +1073,36 @@ MD5sum: a1a27d51f93da4262059fe937e025f35
 SHA1: d546e6520c107d8fa6e748c97244dcdbf38603ad
 SHA256: dca96478c832a552b35e77afa7b4950c66a00a06e0e467006b543adcaa2e92d0
 
+Package: com.mikey820.airpodsreconnectfix
+Name: AirPodsReconnectFix
+Description: iOS 6 AirPods fix (post-AirPods-Pro-3 firmware): pre-emptive service re-assert every 18s to head off the ~45s firmware disconnect (plus burst-reconnect fallback), AND a gapless silent A2DP keep-warm stream so pausing/skipping tracks and system sounds keep routing to the AirPods (mechanism from asentientbot's ios-6-pods-hack, folded in) [1mb: matches any Bluetooth name containing "pods", e.g. PeaPods, instead of only "airpod"]
+Maintainer: mikey820 <mikey820@users.noreply.github.com>
+Author: mikey820
+Section: Tweaks
+Icon: icon.png
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0)
+Architecture: iphoneos-arm
+Version: 2.8.6-1mb
+Installed-Size: 236
+Filename: debs/com.mikey820.airpodsreconnectfix_2.8.6-1mb_iphoneos-arm.deb
+Size: 115124
+MD5sum: 73c2201f43d96468ea55a31e0b4fc4d3
+SHA1: 717574b5e8c0a59cc8fa844f5c0a6919a243b42f
+SHA256: 332abf755b5e29c49544ec2cbc014ef3f5ff6716f1bf92bebfaf1231e30888f0
+
+Package: com.mbucc9000.mirrorfront
+Name: MirrorFront
+Description: Saves front-camera photos and videos mirrored, exactly as the preview shows them. Works in Camera and in the lock screen camera.
+Author: mbucc9000
+Maintainer: mbucc9000
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.0.0
+Installed-Size: 56
+Filename: debs/com.mbucc9000.mirrorfront_1.0.0_iphoneos-arm.deb
+Size: 5028
+MD5sum: 621ff6e3e146a42daa06e60bdb0e442c
+SHA1: 5b70fd400d3ca70b29449c94fa080e705f002e41
+SHA256: de4313edecc549d88ea6a15749b27d6c02697c6d839db025908592e8468c3743
+

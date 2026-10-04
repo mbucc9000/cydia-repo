@@ -7,11 +7,11 @@ Architectures: iphoneos-arm
 Components: main
 Description: Marcus's personal iOS 6 tweak collection
 MD5Sum:
- 47e177b738b771215bd813bbc1c6a6de 45546 Packages
- e49bac14e956d734d4419fe46274d30a 13817 Packages.gz
+ ad5e243d898791e2a5764278169eca41 47080 Packages
+ 7d74c6d732c32a7ae743e9100ca67225 14444 Packages.gz
 SHA1:
- 21b2a51c1e16dcf8d70b247964f8b2dc30053849 45546 Packages
- 1f14327011c37ec906442cfb7910be0778ab7bb4 13817 Packages.gz
+ f7f75f2feb75bc9946eb9e4c24b8839231ae7a5d 47080 Packages
+ 51b3373ea1cbd44c8e09d2f21b563f79c88764b1 14444 Packages.gz
 SHA256:
- b9bd3b248fb90cdb1bd76cf3491fec1be35c9d73c1aad89a1d5980c2c7405b21 45546 Packages
- e031dbbe7403b6bd74df3bd63c50c655757cf4342269e0f515436fbcbccb0b38 13817 Packages.gz
+ ed799d6b7a4232d8d0fc82c204404deca37596f1f907055145a3e760074bedc6 47080 Packages
+ 5d3d1e7ee7effe800b5b9152c19efdf4b033e028e9d89674583aabd11ec4470c 14444 Packages.gz
