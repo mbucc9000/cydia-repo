@@ -373,13 +373,13 @@ Author: mbucc9000
 Maintainer: mbucc9000
 Section: Tweaks
 Priority: optional
-Depends: ai.akemi.appsyncunified, bag.xml.alienbluebutgood, bag.xml.discord, cc.tweak.taptowidgetscore, com.a3tweaks.flipswitch, com.autopear.installipa, com.bagxml.storelayoutsfix, com.chpwn.weeloader, com.ericasadun.utilities, com.filippobiga.harlem, com.hackyouriphone.cyueue, com.hackyouriphone.karenprefs, com.hackyouriphone.libsubstitrate, com.hackyouriphone.mirrorselfie, com.hackyouriphone.packagebackup, com.hackyouriphone.taptowidgets, com.ixmoe.1pwn.facetimefixer, com.ixmoe.1pwn.veteris, com.jamied360.ncsettings, com.legacyguides.pinterestx6, com.obscure.earthx, com.officialscheduler.safaridownloadenabler, com.opa334.libundirect, com.ps.efmfontdl, com.ps.emojiattributes, com.ps.emojifontefm, com.ps.emojifontmanager, com.ps.emojilayout, com.ps.emojilibrary, com.ps.emojilocalization, com.ps.emojiportlegacy, com.rpetrich.rocketbootstrap, com.skyglow.mapsx, com.skyglow.stocksx, com.skyglow.weatherx, com.slugrail.ipainstaller, com.victorlobe.fixmyfriends, com.victorlobe.googlefix, com.victorlobe.safarioldreddit, com.zimm.libdisplaystack, dev.preloading.ebayx2, dev.preloading.retranslate, dev.preloading.tubereplacer, it.drcomputer.mediaexport, libactivator, libevent, libfinder, libnghttp2-14, me.k3a.ae, me.k3a.libaiml, moe.yzu.veterishelper, net.nekokawa.appstorefix, net.nekokawa.storeetcfix, org.h6nry.adowngrader, org.thebigboss.customwidgeticons, org.thebigboss.frontflash, ws.hbang.common
+Depends: ai.akemi.appsyncunified, bag.xml.alienbluebutgood, bag.xml.discord, cc.tweak.taptowidgetscore, com.a3tweaks.flipswitch, com.autopear.installipa, com.bagxml.storelayoutsfix, com.chpwn.weeloader, com.ericasadun.utilities, com.filippobiga.harlem, com.hackyouriphone.cyueue, com.hackyouriphone.karenprefs, com.hackyouriphone.libsubstitrate, com.hackyouriphone.mirrorselfie, com.hackyouriphone.packagebackup, com.hackyouriphone.taptowidgets, com.ixmoe.1pwn.facetimefixer, com.ixmoe.1pwn.veteris, com.jamied360.ncsettings, com.legacyguides.pinterestx6, com.obscure.earthx, com.officialscheduler.safaridownloadenabler, com.opa334.libundirect, com.ps.efmfontdl, com.ps.emojiattributes, com.ps.emojifontefm, com.ps.emojifontmanager, com.ps.emojilayout, com.ps.emojilibrary, com.ps.emojilocalization, com.ps.emojiportlegacy, com.rpetrich.rocketbootstrap, com.skyglow.mapsx, com.skyglow.weatherx, com.slugrail.ipainstaller, com.victorlobe.fixmyfriends, com.victorlobe.googlefix, com.victorlobe.safarioldreddit, com.zimm.libdisplaystack, dev.preloading.ebayx2, dev.preloading.retranslate, dev.preloading.tubereplacer, it.drcomputer.mediaexport, libactivator, libevent, libfinder, libnghttp2-14, me.k3a.ae, me.k3a.libaiml, moe.yzu.veterishelper, net.nekokawa.appstorefix, net.nekokawa.storeetcfix, org.h6nry.adowngrader, org.thebigboss.customwidgeticons, org.thebigboss.frontflash, ws.hbang.common
 Description: Installs Marcus's full tweak collection in one tap.
 Filename: debs/com.mbucc9000.marcussetup_1.0_iphoneos-arm.deb
-Size: 2636
-MD5sum: f1b53c205567eb6b8c875c011d907989
-SHA1: 7691c1124385532b264522789cbe9f8228583ea6
-SHA256: ffd9ec4fd2379375fa1303fe3ba19b78797cd99cf67cba4fc483ae895c5a2255
+Size: 1240
+MD5sum: 1b1a66185c17558f48a3593a833dc2ca
+SHA1: 3e4854ed2093dd1924b69337df2b581d0025bd69
+SHA256: 98bd7fc48dd273b94d121327d4a77720545a961d77390ae00b4d7e2b6602d37c
 
 Package: com.obscure.earthx
 Name: EarthX
